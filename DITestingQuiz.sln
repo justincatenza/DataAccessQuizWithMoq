@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DITestingQuiz", "DITestingQuiz\DITestingQuiz.csproj", "{F4E97BDD-9B66-44A8-964B-BE0355179C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqQuiz", "MoqQuiz\MoqQuiz.csproj", "{B6B94576-BAF3-494B-9B5A-F3B67A643B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E97BDD-9B66-44A8-964B-BE0355179C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E97BDD-9B66-44A8-964B-BE0355179C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E97BDD-9B66-44A8-964B-BE0355179C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E97BDD-9B66-44A8-964B-BE0355179C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B94576-BAF3-494B-9B5A-F3B67A643B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B94576-BAF3-494B-9B5A-F3B67A643B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B94576-BAF3-494B-9B5A-F3B67A643B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B94576-BAF3-494B-9B5A-F3B67A643B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28EFFAE5-383D-46A5-815F-ADF1992BFCC3}
+	EndGlobalSection
+EndGlobal
